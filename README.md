@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **react, vue, express, sequelize**
 
-- 📫 How to reach me **kirimkesofyanaja@gmail.com**
+- 📫 How to reach me **fyans665@gmail.com**
 
 - ⚡ Fun fact **I think I funny**
 
