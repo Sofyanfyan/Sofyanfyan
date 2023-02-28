@@ -4,9 +4,9 @@
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 
 
-- 🌱 I’m currently learning **react-native**
+- 🌱 I’m currently learning **typescript**
 
-- 💬 Ask me about **react, vue, express, sequelize**
+- 💬 Ask me about **react, vue, express,react-native, sequelize**
 
 - 📫 How to reach me **fyans665@gmail.com**
 
