@@ -23,6 +23,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sofyanfyan&show_icons=true&locale=en&layout=compact" alt="sofyanfyan" /></p>
 <br/>
-<br/>
-<br/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sofyanfyan&" alt="sofyanfyan" /></p>
